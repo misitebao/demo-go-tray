@@ -2,4 +2,4 @@
 
 ## 示例截图
 
-![](https://cdn.jsdelivr.net/gh/misitebao/CDN@master//md20210518093816.png)
+![](https://cdn.jsdelivr.net/gh/misitebao/CDN/md/20210721062440.gif)
